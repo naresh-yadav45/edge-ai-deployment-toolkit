@@ -3,7 +3,7 @@
 > Analyze, Optimize, Simulate and Deploy AI Models Efficiently on Edge Devices.
 
 ## Project Overview
-A full-stack SaaS-style platform that helps AI engineers, ECE students, researchers and embedded developers judge whether a model can run on edge hardware (Raspberry Pi 4/5, Jetson Nano/Xavier, Android, ESP32, STM32). It estimates latency, memory, power, thermal behaviour and energy, compares optimization techniques, benchmarks models, recommends a deployment and exports PDF/CSV reports.
+A full-stack SaaS-style platform that helps AI engineers, EIC students, researchers and embedded developers judge whether a model can run on edge hardware (Raspberry Pi 4/5, Jetson Nano/Xavier, Android, ESP32, STM32). It estimates latency, memory, power, thermal behaviour and energy, compares optimization techniques, benchmarks models, recommends a deployment and exports PDF/CSV reports.
 
 ## Problem Statement
 Choosing hardware and optimization for an edge model usually means trial and error on physical boards. This toolkit gives a fast, explainable first estimate so you can shortlist options before buying or flashing hardware.
