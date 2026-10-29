@@ -83,5 +83,5 @@ Dark/light toggle, AI assistant chatbot, ONNX/TFLite upload with real profiling,
 
 ## Author
 **Naresh Yadav**
-ECE Engineering Student
-AI • Edge Computing • Web Development • Cyber Security
+Electronic Instrumentation and control Engineer (EIC) Student
+AI • Edge Computing • Web Development • UI & UX designer • Cyber Security
